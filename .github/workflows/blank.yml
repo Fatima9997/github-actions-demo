@@ -7,4 +7,4 @@ jobs:
       - name: sending a message
         run: echo "hello world"
       - name: sending another message
-        run: echo "hello"
+        run: echo "hello!"
